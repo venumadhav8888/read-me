@@ -51,5 +51,5 @@ My goal is to become a Software Developer and build scalable applications that s
 ---
 
 🔗 Connect With Me  
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: Add your link here
+- Gmail :- meruguvenu141@gmail.com
+- LinkedIn: www.linkedin.com/in/merugu-venu-madhav-a04147287
