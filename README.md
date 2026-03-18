@@ -10,7 +10,7 @@ I am currently expanding my knowledge in React.js and Backend Development, and c
 🧠 Areas of Interest  
 - Full Stack Development  
 - Web Development  
-- Machine Learning  
+- 
 
 ---
 
