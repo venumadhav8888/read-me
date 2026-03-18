@@ -16,7 +16,9 @@ I am currently expanding my knowledge in React.js and Backend Development, and c
 
 💻 Programming Languages  
 - Java  
-- JavaScript  
+- JavaScript
+- html
+- css 
 
 ---
 
